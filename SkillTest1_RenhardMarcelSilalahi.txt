@@ -1,0 +1,4 @@
+Nama : Renhard Marcel Silalahi
+Umur : 22 Tahun
+Stack : Full Stack
+Bahasa Pemrograman : JavaScript
